@@ -1,13 +1,13 @@
 {
-  "main.css": "/my-app/static/css/main.cc67c88f.chunk.css",
-  "main.js": "/my-app/static/js/main.65c04acb.chunk.js",
-  "main.js.map": "/my-app/static/js/main.65c04acb.chunk.js.map",
-  "runtime~main.js": "/my-app/static/js/runtime~main.caff8f44.js",
-  "runtime~main.js.map": "/my-app/static/js/runtime~main.caff8f44.js.map",
-  "static/js/2.e4dbdbdb.chunk.js": "/my-app/static/js/2.e4dbdbdb.chunk.js",
-  "static/js/2.e4dbdbdb.chunk.js.map": "/my-app/static/js/2.e4dbdbdb.chunk.js.map",
-  "index.html": "/my-app/index.html",
-  "precache-manifest.5b6d23c45bea87ea127bdfbfa89f375b.js": "/my-app/precache-manifest.5b6d23c45bea87ea127bdfbfa89f375b.js",
-  "service-worker.js": "/my-app/service-worker.js",
-  "static/css/main.cc67c88f.chunk.css.map": "/my-app/static/css/main.cc67c88f.chunk.css.map"
+  "main.css": "/chingu-prep/static/css/main.cc67c88f.chunk.css",
+  "main.js": "/chingu-prep/static/js/main.65c04acb.chunk.js",
+  "main.js.map": "/chingu-prep/static/js/main.65c04acb.chunk.js.map",
+  "runtime~main.js": "/chingu-prep/static/js/runtime~main.c5789bc6.js",
+  "runtime~main.js.map": "/chingu-prep/static/js/runtime~main.c5789bc6.js.map",
+  "static/js/2.e4dbdbdb.chunk.js": "/chingu-prep/static/js/2.e4dbdbdb.chunk.js",
+  "static/js/2.e4dbdbdb.chunk.js.map": "/chingu-prep/static/js/2.e4dbdbdb.chunk.js.map",
+  "index.html": "/chingu-prep/index.html",
+  "precache-manifest.6bb4a97881995b5302d28aa06d903a29.js": "/chingu-prep/precache-manifest.6bb4a97881995b5302d28aa06d903a29.js",
+  "service-worker.js": "/chingu-prep/service-worker.js",
+  "static/css/main.cc67c88f.chunk.css.map": "/chingu-prep/static/css/main.cc67c88f.chunk.css.map"
 }
