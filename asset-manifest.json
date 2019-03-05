@@ -1,13 +1,13 @@
 {
   "main.css": "/chingu-prep/static/css/main.cc67c88f.chunk.css",
-  "main.js": "/chingu-prep/static/js/main.65c04acb.chunk.js",
-  "main.js.map": "/chingu-prep/static/js/main.65c04acb.chunk.js.map",
+  "main.js": "/chingu-prep/static/js/main.2175f9be.chunk.js",
+  "main.js.map": "/chingu-prep/static/js/main.2175f9be.chunk.js.map",
   "runtime~main.js": "/chingu-prep/static/js/runtime~main.c5789bc6.js",
   "runtime~main.js.map": "/chingu-prep/static/js/runtime~main.c5789bc6.js.map",
   "static/js/2.e4dbdbdb.chunk.js": "/chingu-prep/static/js/2.e4dbdbdb.chunk.js",
   "static/js/2.e4dbdbdb.chunk.js.map": "/chingu-prep/static/js/2.e4dbdbdb.chunk.js.map",
   "index.html": "/chingu-prep/index.html",
-  "precache-manifest.6bb4a97881995b5302d28aa06d903a29.js": "/chingu-prep/precache-manifest.6bb4a97881995b5302d28aa06d903a29.js",
+  "precache-manifest.e6e2b071c93ce15fc6900e1ae4087928.js": "/chingu-prep/precache-manifest.e6e2b071c93ce15fc6900e1ae4087928.js",
   "service-worker.js": "/chingu-prep/service-worker.js",
   "static/css/main.cc67c88f.chunk.css.map": "/chingu-prep/static/css/main.cc67c88f.chunk.css.map"
 }
